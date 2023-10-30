@@ -43,7 +43,7 @@ public class Main {
                 System.out.print("*");
             System.out.print("\n");
         }
-        System.out.print ("END PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
 
 
     }
