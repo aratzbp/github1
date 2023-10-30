@@ -43,6 +43,10 @@ public class Main {
                 System.out.print("*");
             System.out.print("\n");
         }
+        System.out.print("-------------------");
+        System.out.print("-------------------");
+        System.out.print("-------------------");
+
         System.out.print("END OF THIS PROGRAM");
 
 
