@@ -48,6 +48,11 @@ public class Main {
         System.out.print("-------------------");
 
         System.out.print("END OF THIS PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
+        System.out.print("END OF THIS PROGRAM");
 
 
     }
