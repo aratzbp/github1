@@ -52,7 +52,9 @@ public class Main {
         System.out.print("3");
         System.out.print("2");
         System.out.print("1");
-
+        
+         System.out.print("GO");
+        
         System.out.print("END OF THIS PROGRAM");
 
 
